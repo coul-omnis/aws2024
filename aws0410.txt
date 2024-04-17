@@ -1,0 +1,12 @@
+Route53
+EC2
+S3
+RDS
+VPC
+
+Elastic Beans
+Lambda
+Lightsail
+
+上記５つのサービスについて各自で調べてください。
+調べた内容をレポートとしてまとめて、共有サーバにアップしてください。
